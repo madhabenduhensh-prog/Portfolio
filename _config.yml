@@ -1,4 +1,4 @@
-title: Artist Name
+title: Madhabendu Hensh
 description: Portfolio
 
 collections:
@@ -14,3 +14,4 @@ defaults:
       layout: "project"
 
 markdown: kramdown
+baseurl: "/Portfolio"
