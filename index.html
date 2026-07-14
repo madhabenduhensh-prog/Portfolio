@@ -7,7 +7,7 @@ title: Home
 <ul>
   {% for project in site.projects %}
   <li>
-    <a href="{{ project.url }}">{{ project.title }}</a>
+    <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>
     {% if project.date %} — {{ project.date | date: "%Y" }}{% endif %}
   </li>
   {% endfor %}
