@@ -1,7 +1,8 @@
+
 ---
-title: Example Project
-date: 2026-01-01
-slug: example-project
+title: IFA
+date: 2026-07-14
+slug: IFA
 photos:
   - 01.jpg
   - 02.jpg
@@ -15,4 +16,4 @@ photos:
   - 10.jpg
 ---
 
-Short project statement. What the work is, materials, context, year.
+Write your project description here — materials, year, context.
