@@ -1,4 +1,3 @@
-
 ---
 title: IFA
 date: 2026-07-14
@@ -13,7 +12,6 @@ photos:
   - 07.jpg
   - 08.jpg
   - 09.jpg
-  - 10.jpg
 ---
 
 Write your project description here — materials, year, context.
